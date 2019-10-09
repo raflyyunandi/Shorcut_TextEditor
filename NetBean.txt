@@ -1,0 +1,14 @@
+Ctrl + Space = Menampilkan code hint
+Alt + Enter= Menampilkan alternatif pilihan untuk memperbaiki error (warna kuning merah di sebelah kiri kode)
+Shift + Alt + Up/Down = Menggeser kode ke atas atau ke bawah
+Ctrl + Shift + Up/Down = Mengcopy kode baris (Duplikasi baris)
+Alt + Insert = Menampilkan generate code seperti constructor, setter and getter
+Alt + Shift + F = Merapikan kode yang berantakan
+Alt + Shift + Right/Left = Menggeser kode ke kanan atau ke kiri (Seperti pakai tab)
+Alt + Right = Kembali ke file yang kita edit setelah file yang aktif
+Alt + Left = Kembali ke file yang kita edit sebelum file yang aktif
+Sorot fungsi + Ctrl = Menuju ke deklarasi fungsi
+Alt + F6 = Running program
+Ctrl + Shift + C = Komen / Uncomment code kita
+Ketik sout + Tab = Shortcut pendek untuk System.out.println("");
+Ketik psvm + Tab = Shortcut pendek untuk public static void main(String [] args
